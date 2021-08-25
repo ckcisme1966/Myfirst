@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ckcisme1966
 - 👀 I’m interested in helping people find IT related jobs!
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning PHP which runs my website @ www.nestaff.com
 - 💞️ I’m looking to collaborate on open IT roles
 - 📫 How to reach me 833-337-1614 or chris@nestaff.com
 
